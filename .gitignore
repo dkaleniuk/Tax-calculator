@@ -1,0 +1,12 @@
+vendor/
+.idea/
+
+/.env
+.env
+
+/bin/*
+!/bin/console
+
+.phpunit.result.cache
+
+composer.phar
